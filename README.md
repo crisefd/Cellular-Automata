@@ -15,7 +15,9 @@ Using the basic set of rules found at : http://mathworld.wolfram.com/ElementaryC
 >Programmed and tested on Ubuntu 14.04
 
 #Using the Sofware
->Execute in terminal with command: python3 CAGUI.py
+>Execute in terminal with command:
+
+  $ python3 CAGUI.py
 
 >Choose the number of cells and generations
 
